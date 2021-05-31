@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Zhihua-Liu-Phys
+- 👀 I’m interested in Computational Physics in topogical insulator and spintronics.
+- 📫 How to reach me ---zhihua_phy@163.com
